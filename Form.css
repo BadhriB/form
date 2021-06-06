@@ -1,0 +1,76 @@
+h1{
+    text-align: center;
+    color:#7FFF00;
+}
+.totalBody{
+    background-image:url(gym1.jpg) ;
+
+}
+#tHeader{
+    position: relative;
+    left:250px;
+}
+
+
+.rounderBorder{
+    border: 2px ;
+  border-radius: 8px;
+} 
+
+tr{
+    padding: 10px;
+}
+
+
+table{
+    width: 80%;
+}
+
+.tableHeader1{
+   text-align: right; 
+}
+.moveLeft{
+position: relative;
+right: 50px;
+}
+#PurchaseRadio ul li{
+    display: inline-block;    
+}
+#left1{
+    position: relative;
+    left: 30px;
+}
+#left2{
+    position: relative;
+    left: 80px;
+}
+#left3{
+    position: relative;
+    left: 50px;
+}
+
+#moveRight{
+    margin-right: 40px;
+}
+.value::after{
+        content: "*";
+        color: red;
+}
+
+
+.input{
+    position: absolute;
+    right:1000px;
+}
+
+.pUnderline:hover{
+    text-decoration: underline;
+}
+#rowColor{
+    background: pink;
+}
+.dropdown{
+    position: absolute;
+    background-color: white;
+    right:700px;
+}
